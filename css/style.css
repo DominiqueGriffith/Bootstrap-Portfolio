@@ -1,0 +1,129 @@
+.head{
+    border-color: #cccccc;
+    background-color: #ffffff ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: auto;
+    width: 960px;
+    border-bottom: solid 1px;
+    border-color: #dddddd;
+
+ 
+    
+}
+.navbar-brand{
+    font-size:x-large;
+    float: right;
+    
+}
+.navbar{
+    width: 960px;
+}
+#profilepic{
+    margin: 4px 10px 0px 0px;
+    border: 1px;
+    padding: 10px;
+    float: left;
+}
+.row{
+    border-bottom: solid 1px;
+    border-color: #CBCCCC;
+    margin: auto;
+    padding-top: 20px;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#4aaaa5;
+    color: white;
+    text-align: center;
+    border-top: solid 5px;
+    border-color: #CBCCCC;
+  
+}
+#Contact {
+    float: right;
+    color: #777777;
+    margin: auto;
+    padding: 10px;
+   
+}
+
+#Portfolio{
+    float: right;
+    color: #777777;
+    margin: auto;
+    padding: 10px;
+    
+
+    
+}
+
+#About{
+    float: right;
+    color: #777777;
+    margin: auto;
+    padding: 10px;
+   
+}
+h2{
+    width: 960px;
+    padding-left: 30px;
+    /* border-bottom: solid 1px;
+    border-color: #CBCCCC; */
+    color: #4aaaa5;
+    font-weight: bold;
+    
+
+    
+    
+}
+#name{
+    background-color: #4aaaa5;
+    color: white;
+    margin-right: 40px;
+    font-weight: bold;
+    /* padding-left: 30px;
+    padding-right: 30px; */
+   
+}
+a {
+    color: #777777
+}
+
+article{
+    background-color: #ffffff;
+    border-color: #dddddd;
+    width: 960px;
+    display: block;
+    margin: auto;
+}
+ 
+   @media screen and (max-width: 768px) {
+    
+}
+body{
+    background-image: url(../beanstalk.png);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.container{
+    width: 960px;
+}
+/* .images{
+    float: left; */
+.btn-secondary{
+    background-color:#4aaaa5;
+}
+/* .col mini-box{
+    margin: auto;
+} */
+
+
+.centerimage{
+    justify-content: cente;
+
+
+}
